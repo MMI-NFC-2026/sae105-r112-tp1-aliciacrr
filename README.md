@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : carriero
+- prénom : alicia 
+- URL Netlify : https://shiny-brigadeiros-d62507.netlify.app/
 
 # Travail
 
